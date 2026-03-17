@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Ms. Fat Booty",
+  "base_artist": "Mos Def",
+  "createdAt": "2026-03-17T21:52:11.347097Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ms. Fat Booty",
+      "artist": "Mos Def",
+      "has_synced": true,
+      "path": "select/01_Ms._Fat_Booty_Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ms Fat Booty",
+      "artist": "Mos Def",
+      "has_synced": true,
+      "path": "select/02_Ms_Fat_Booty_Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "0879 - Mos Def - Ms. Fat Booty",
+      "artist": "Mos Def",
+      "has_synced": true,
+      "path": "select/03_0879_-_Mos_Def_-_Ms._Fat_Booty_Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ms. Fat Booty",
+      "artist": "Mos Def",
+      "has_synced": true,
+      "path": "select/04_Ms._Fat_Booty_Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ms. Fat Booty",
+      "artist": "Mos Def",
+      "has_synced": true,
+      "path": "select/05_Ms._Fat_Booty_Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ms. Fat Booty - (best of decade I version)",
+      "artist": "Mos Def",
+      "has_synced": true,
+      "path": "select/06_Ms._Fat_Booty_-_(best_of_decade_I_version)_Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ms. Fat Booty (Album Version (Explicit))",
+      "artist": "Mos Def",
+      "has_synced": true,
+      "path": "select/07_Ms._Fat_Booty_(Album_Version_(Explicit))_Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ms. Fat Booty",
+      "artist": "Mos Def",
+      "has_synced": true,
+      "path": "select/08_Ms._Fat_Booty_Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ms. Fat Booty 2",
+      "artist": "Ghostface Killah feat. Mos Def",
+      "has_synced": false,
+      "path": "select/09_Ms._Fat_Booty_2_Ghostface_Killah_feat._Mos_Def.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ms. Fat Booty, Part 2",
+      "artist": "Mos Def & Ghostface Killah",
+      "has_synced": false,
+      "path": "select/10_Ms._Fat_Booty,_Part_2_Mos_Def_&_Ghostface_Killah.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ms. Fat Booty",
+      "artist": "Mos Def",
+      "has_synced": true,
+      "path": "select/11_Ms._Fat_Booty_Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ms. Fat Booty 2",
+      "artist": "Mos Def feat. Ghostface Killah",
+      "has_synced": false,
+      "path": "select/12_Ms._Fat_Booty_2_Mos_Def_feat._Ghostface_Killah.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ms. Fat Booty",
+      "artist": "Mos Def",
+      "has_synced": false,
+      "path": "select/pl_01_Ms._Fat_Booty_Mos_Def.txt"
+    }
+  ]
+}
